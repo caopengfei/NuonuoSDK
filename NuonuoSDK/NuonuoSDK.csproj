@@ -6,6 +6,8 @@
 		<Company />
 		<Product />
 		<Description>诺诺电子发票的.Net SDK</Description>
+		<PackageProjectUrl>https://github.com/caopengfei/NuonuoSDK</PackageProjectUrl>
+		<Version>1.0.0.1</Version>
 	</PropertyGroup>
 
 	<ItemGroup>
